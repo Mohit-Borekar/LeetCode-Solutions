@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2235-add-two-integers](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -21,4 +22,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
