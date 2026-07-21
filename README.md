@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0231-power-of-two](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0507-perfect-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
+| [0231-power-of-two](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -51,4 +53,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
