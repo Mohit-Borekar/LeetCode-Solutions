@@ -1,7 +1,7 @@
 class Solution {
 public:
-    long long mySqrt(long long x) {
-        long long ans = 1;
+    long mySqrt(long x) {
+        long ans = 1;
         if(x == 1 || x == 0){
             return x;
         }
