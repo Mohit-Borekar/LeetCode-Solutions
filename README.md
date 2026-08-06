@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
+| [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0326-power-of-three) |
@@ -63,4 +64,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0231-power-of-two](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0342-power-of-four) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
