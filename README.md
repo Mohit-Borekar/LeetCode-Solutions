@@ -4,8 +4,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -24,54 +25,54 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0050-powx-n](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Newton's Method
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
