@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2520-count-the-digits-that-divide-a-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 | [2652-sum-multiples](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2652-sum-multiples/) | Easy |
+| [3099-harshad-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/3099-harshad-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
