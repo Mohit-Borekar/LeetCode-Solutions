@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 | [0507-perfect-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0507-perfect-number/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
