@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
+| [0283-move-zeroes](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -81,4 +82,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0283-move-zeroes](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 <!---LeetCode Topics End-->
