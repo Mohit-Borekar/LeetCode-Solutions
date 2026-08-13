@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0007-reverse-integer](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0263-ugly-number](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0263-ugly-number) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0066-plus-one](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
