@@ -4,8 +4,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0007-reverse-integer](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0050-powx-n) |
@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1518-water-bottles](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/1518-water-bottles) |
 | [2235-add-two-integers](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -29,20 +30,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2769-find-the-maximum-achievable-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2769-find-the-maximum-achievable-number/) | Easy |
 | [3099-harshad-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/3099-harshad-number/) | Easy |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0191-number-of-1-bits](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 ## Bit Manipulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0136-single-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0191-number-of-1-bits](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0066-plus-one](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
@@ -53,47 +54,51 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1672-richest-customer-wealth](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2535-difference-between-element-sum-and-digit-sum-of-an-array/) | Easy |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Number Theory
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2413-smallest-even-multiple](https://github.com/mohit9078/LeetCode-Solutions/tree/main/2413-smallest-even-multiple/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0088-merge-sorted-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0050-powx-n](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0342-power-of-four) |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0441-arranging-coins/) | Easy |
 ## Newton's Method
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0069-sqrtx](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0069-sqrtx) |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0088-merge-sorted-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1672-richest-customer-wealth](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+## Simulation
+|  |
+| ------- |
+| [1518-water-bottles](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/1518-water-bottles) |
 <!---LeetCode Topics End-->
