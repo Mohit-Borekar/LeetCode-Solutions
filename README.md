@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0136-single-number](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0136-single-number/) | Easy |
 | [0283-move-zeroes](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/mohit9078/LeetCode-Solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0860-lemonade-change](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 | [1207-unique-number-of-occurrences](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/mohit9078/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -101,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/1518-water-bottles) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/Mohit-Borekar/LeetCode-Solutions/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
